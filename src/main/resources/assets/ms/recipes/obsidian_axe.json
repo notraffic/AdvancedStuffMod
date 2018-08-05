@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "RR",
+        "R#",
+        " #"
+    ],
+   
+    "key":
+    {
+        "R":
+        {
+            "item": "ms:obsidian_ingot"
+        },
+        "#":
+        {
+            "item": "minecraft:stick"
+        }
+            
+    },
+   
+    "result":
+    {
+        "item": "ms:obsidian_axe",
+        "count": 1
+    }
+}
