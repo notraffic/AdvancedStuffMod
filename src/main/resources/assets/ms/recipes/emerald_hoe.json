@@ -3,27 +3,27 @@
    
     "pattern":
     [
-        "RRR",
-        " # ",
-        " # "
+        "RR",
+        " #",
+        " #"
     ],
    
     "key":
     {
         "R":
         {
-            "item": "ms:obsidian_ingot"
+            "item": "minecraft:emerald"
         },
         "#":
         {
-            "item": "ms:stone_stick"
+            "item": "minecraft:stick"
         }
             
     },
    
     "result":
     {
-        "item": "ms:obsidian_pickaxe",
+        "item": "ms:obsidian_hoe",
         "count": 1
     }
 }

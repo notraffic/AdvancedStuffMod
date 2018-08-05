@@ -40,7 +40,7 @@ public class Main {
 		
 	}
 	
-	public static CreativeTabs tabMorestuff = new CreativeTabs("tab_morestuff") {
+	public static CreativeTabs tabMorestuff = new CreativeTabs("tab_morestuff") { //Creating the Creative Tab More Stuff Mod. (Renamed in en_us)
 		
 		@Override
 		public ItemStack getTabIconItem() {

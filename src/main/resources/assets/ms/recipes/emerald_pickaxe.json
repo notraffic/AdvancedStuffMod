@@ -12,11 +12,11 @@
     {
         "R":
         {
-            "item": "ms:obsidian_ingot"
+            "item": "minecraft:emerald"
         },
         "#":
         {
-            "item": "ms:stone_stick"
+            "item": "minecraft:stick"
         }
             
     },

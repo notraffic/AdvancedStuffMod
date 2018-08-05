@@ -4,8 +4,8 @@
     "pattern":
     [
         "RRR",
-        " # ",
-        " # "
+        "RRR",
+        "RRR"
     ],
    
     "key":
@@ -13,17 +13,13 @@
         "R":
         {
             "item": "ms:obsidian_ingot"
-        },
-        "#":
-        {
-            "item": "ms:stone_stick"
         }
             
     },
    
     "result":
     {
-        "item": "ms:obsidian_pickaxe",
+        "item": "ms:smooth_obsidian_block",
         "count": 1
     }
 }

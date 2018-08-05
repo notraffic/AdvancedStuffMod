@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "ms:smooth_obsidian_block" }
+    }
+}

@@ -16,7 +16,7 @@
         },
         "#":
         {
-            "item": "minecraft:stick"
+            "item": "ms:stone_stick"
         }
             
     },
