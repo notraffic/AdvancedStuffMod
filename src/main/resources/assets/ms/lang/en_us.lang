@@ -9,3 +9,6 @@ item.obsidian_pickaxe.name=Obsidian Pickaxe
 item.obsidian_hoe.name=Obsidian Hoe
 item.obsidian_axe.name=Obsidian Axe
 item.obsidian_shovel.name=Obsidian Shovel
+
+//Other
+itemGroup.tab_morestuff=Advanced Stuff

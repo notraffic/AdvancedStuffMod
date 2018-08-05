@@ -40,7 +40,7 @@ public class Main {
 		
 	}
 	
-	public static CreativeTabs tabMorestuff = new CreativeTabs("Tab_morestuff") {
+	public static CreativeTabs tabMorestuff = new CreativeTabs("tab_morestuff") {
 		
 		@Override
 		public ItemStack getTabIconItem() {
